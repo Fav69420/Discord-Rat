@@ -1,3 +1,5 @@
 # Warning
 
-Please do not use this for any illegal purposes, only use this on your computer, and beaware that some commands could be harmfull to your computer.
+Trying to get people to download this is illegal, please do not use this to scam people, or break their computer.
+
+# THIS IS FOR EDUCATIONAL PURPOSES ONLY
