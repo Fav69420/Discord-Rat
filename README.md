@@ -1,4 +1,3 @@
-# Discord-Rat
-WARNING -- Do not use this illegally. -- WARNING
+# Warning
 
-WARNING -- Some Commands could be harmfull to your computer -- WARNING
+Please do not use this for any illegal purposes, only use this on your computer, and beaware that some commands could be harmfull to your computer.
